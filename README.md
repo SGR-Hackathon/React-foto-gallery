@@ -1,3 +1,9 @@
+# Project Original Source
+
+This projects comes originally from [The Net Ninja](https://github.com/iamshaunjp) and it´s part of their original [React tutorial](https://www.youtube.com/watch?v=vUe91uOx7R0)
+
+# Getting Started with Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
